@@ -1,0 +1,15 @@
+# Core
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+
+# LLM + Whisper (free tier, one key)
+groq>=0.11.0
+
+# Transcript
+youtube-transcript-api>=1.2.0
+yt-dlp>=2024.1.0
+
+# Embeddings (local, ONNX — no torch) + vector search
+fastembed>=0.3.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
