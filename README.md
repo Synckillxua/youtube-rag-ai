@@ -98,7 +98,7 @@ streamlit run app.py
 
 ---
 
-## 🧩 Key Concepts (interview-ready)
+## 🧩 Key Concepts 
 
 | Concept | One-liner |
 |---|---|
@@ -144,4 +144,4 @@ class Embedder:
 
 MIT — use and modify freely.
 
-> Built by [Your Name] · AIML @ NHCE
+> Built by Ayush Roy 1NH23AI025· AIML @ NHCE
