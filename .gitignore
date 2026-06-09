@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.cache/
+.fastembed_cache/
+*.egg-info/
+.streamlit/secrets.toml
